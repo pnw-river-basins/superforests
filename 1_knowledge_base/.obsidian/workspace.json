@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_knowledge/OC transfer land-ocean.md",
+                "file": "c_production/Section -Mountain Ranges, Carbon Re-distribution, and Global Climate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_knowledge/OC transfer land-ocean.md",
+                "file": "c_production/Section -Mountain Ranges, Carbon Re-distribution, and Global Climate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a_knowledge/OC transfer land-ocean.md",
+                "file": "c_production/Section -Mountain Ranges, Carbon Re-distribution, and Global Climate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_knowledge/OC transfer land-ocean.md"
+                "file": "c_production/Section -Mountain Ranges, Carbon Re-distribution, and Global Climate.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "48e824349621b8d4",
   "lastOpenFiles": [
-    "a_knowledge/The Role of Mountain Ranges in Carbon Re-distribution and Global Climate.md",
-    "a_knowledge/OC transfer land-ocean.md",
+    "a_knowledge/lit_reviews",
+    "a_knowledge/lit_reviews/OC transfer land-ocean.md",
+    "e_engagement/Perspective Articles for OneEarth.md",
+    "c_production/Superforests-Perspective Article.md",
+    "c_production/Superforests - Book Outline.md",
+    "c_production/Section -Mountain Ranges, Carbon Re-distribution, and Global Climate.md",
     "e_engagement",
     "d_products",
     "c_production",
